@@ -2,7 +2,7 @@
 // Make me compile! Scroll down for hints :)
 
 fn main() {
-    let x : i32 = 5;
+    let x = 5;
     println!("x has the value {}", x);
 }
 
